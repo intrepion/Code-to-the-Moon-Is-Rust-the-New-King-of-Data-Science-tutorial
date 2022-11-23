@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 linfa = "0.6.0"
+linfa-trees = "0.6.0"
